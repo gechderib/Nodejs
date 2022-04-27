@@ -1,0 +1,29 @@
+JS is async and single threaded by nature it means read everything line by line 
+event loop register the call back and once it is read it will exexute
+event loop will wait for the  request to come in 
+The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
+   
+   async function funName(parm1,parm2){
+   }
+   
+   on - listen for an event 
+   emit - emit an event
+   
+   STREAMS ON NODEfff
+   	FOUR TYPES
+   	1. Writable => for writing data sequntialy
+   	2. readable => for reading
+   	3. dublex   => for both writing and reading
+   	4. transform=> for transforming the witen and readenn==
+streams extends data EmitterEvent class which means we can use event in streams
+
+	Express
+	API JSON                    SSR(server side RENDERING)-TEMPLATE
+	SEND DATA                   SEND TEMPLATE   
+	RES.JSON                    RES.RENDER()
+	
+	
+	
+	
+	
+
